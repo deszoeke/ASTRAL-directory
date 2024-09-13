@@ -3,11 +3,7 @@ Documents the links to shared ASTraL/EKAMSAT documents, files, and data.
 
 You need permission to access most links.
 
-[Cruise Reports](#cruise-reports)
-[UW Sharepoint](#uw-sharepoint-links)
-[Meetings](#meetings)
-[Data](#data)
-[Contributions](#contributions-and-issues)
+| [Cruise Reports](#cruise-reports) | [UW Sharepoint](#uw-sharepoint-links) | [Meetings](#meetings) |  [Data](#data) | [Contributions](#contributions-and-issues) |
 
 ## Cruise reports
 Cruise reports are kept as Google Docs:
