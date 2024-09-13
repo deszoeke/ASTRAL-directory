@@ -20,7 +20,7 @@ The links to the 2 UW SharePoint drives are:
 [og_ekamsat-st-ASTraLprogram](https://uwnetid.sharepoint.com/sites/og_ekamsat-st-ASTraLprogram/Shared%20Documents/Forms/AllItems.aspx)
 
 ## Meetings
-[September 2024 EKAMSAT/ASTraL meeting, Seattle, presentations](https://uwnetid.sharepoint.com/:f:/r/sites/og_ekamsat-st/Shared%20Documents/Meetings/Seattle%202024?csf=1&web=1&e=JOADqo)
+[September 2024 EKAMSAT/ASTraL meeting, Seattle](https://uwnetid.sharepoint.com/:f:/r/sites/og_ekamsat-st/Shared%20Documents/Meetings/Seattle%202024?csf=1&web=1&e=JOADqo)
 
 ## Data
 ### Model
