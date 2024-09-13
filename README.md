@@ -28,6 +28,8 @@ The links to the 2 UW SharePoint drives are:
 ### Model
 [COAMPS 2024 output website](https://cavu.nrlmy.navy.mil/COAMPSOS/exp/BoB5)
 
+### Buoys
+[BD mooring](https://uwnetid.sharepoint.com/sites/og_ekamsat-st-ASTraLprogram/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=sMWvkE&CID=63fc4fa1%2Da061%2D6000%2D7b89%2D079651f4d0f3&cidOR=SPO&FolderCTID=0x012000552EE5D6280C97498215CF0E0415118E&id=%2Fsites%2Fog%5Fekamsat%2Dst%2DASTraLprogram%2FShared%20Documents%2FASTraL%20program%2FTN432%2Fcruiseshare%2FFor%5FScience%2FBD%5Fmoorings)
 ## Contributions and Issues
 Contributions welcome. Add useful links to ASTraL/EKAMSAT stuff.
 
